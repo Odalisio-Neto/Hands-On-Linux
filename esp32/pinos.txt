@@ -1,0 +1,11 @@
+DHT_PIN:
+Definição: #define DHT_PIN 0
+Descrição: Esse é o pino onde o sensor DHT11 está conectado. Esse pino é usado para comunicação entre o esp32 e o sensor, permitindo a leitura de dados de temperatura e umidade.
+
+ledPin:
+Definição: int ledPin = 18;
+Descrição: Aqui é onde o pino do LED está conectado.
+
+ldrPin:
+Definição: int ldrPin = 4;
+Descrição: Esse é o pino onde o LDR está conectado.
